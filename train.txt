@@ -1,0 +1,10 @@
+Artificial Intelligence is the simulation of human intelligence by machines.
+Machine learning allows systems to learn and improve from experience without being explicitly programmed.
+Data science involves extracting knowledge from structured and unstructured data.
+The sun is the closest star to Earth and provides energy for all living things.
+A computer is an electronic device that manipulates information or data.
+The human brain consists of approximately 86 billion neurons.
+Python is a widely used programming language known for its readability and simplicity.
+Neural networks are designed to recognize patterns in data.
+Climate change is a long-term alteration in Earth's climate patterns.
+The Internet connects billions of devices globally and enables data exchange.
